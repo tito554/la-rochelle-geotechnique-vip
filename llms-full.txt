@@ -1,0 +1,52 @@
+# Geotechnique — La Rochelle
+
+> Geotechnical engineering services in La Rochelle, France.
+
+## Services
+- [Amelioration Sols](https://la-rochelle.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://la-rochelle.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://la-rochelle.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://la-rochelle.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://la-rochelle.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://la-rochelle.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://la-rochelle.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://la-rochelle.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://la-rochelle.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://la-rochelle.geotechnique.vip/essais-proctor/)
+- [Excavations](https://la-rochelle.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://la-rochelle.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://la-rochelle.geotechnique.vip/fondations/)
+- [Geotechnique Routiere](https://la-rochelle.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://la-rochelle.geotechnique.vip/granulometrie/)
+- [Injections](https://la-rochelle.geotechnique.vip/injections/)
+- [Investigation](https://la-rochelle.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://la-rochelle.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://la-rochelle.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://la-rochelle.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://la-rochelle.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://la-rochelle.geotechnique.vip/liquefaction/)
+- [Masw](https://la-rochelle.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://la-rochelle.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://la-rochelle.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://la-rochelle.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://la-rochelle.geotechnique.vip/pieux/)
+- [Puits Inspection](https://la-rochelle.geotechnique.vip/puits-inspection/)
+- [Radiers](https://la-rochelle.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://la-rochelle.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://la-rochelle.geotechnique.vip/resistivite/)
+- [Semelles](https://la-rochelle.geotechnique.vip/semelles/)
+- [Sismique](https://la-rochelle.geotechnique.vip/sismique/)
+- [Sondages Spt](https://la-rochelle.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://la-rochelle.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://la-rochelle.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://la-rochelle.geotechnique.vip/talus/)
+- [Triaxial](https://la-rochelle.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://la-rochelle.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://la-rochelle.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://la-rochelle.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in La Rochelle, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
